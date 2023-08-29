@@ -1,2 +1,2 @@
-# Real-Time-Bus-Tracker
-A refactor of an assignment for module 9 of my Full Stack Development Certification at MIT.
+<h1>Map Animation</h1>
+With this project, we used a map api to generate a moving map marker that plotted the bus stops near the MIT Campus. 
